@@ -16,7 +16,7 @@ Optimization Enabled:	Yes
 
 Runs (Optimiser): 	200
 
-Escrito por: Facundo Martin Arguello 
+
 
 Contacto: facundo.martin@eurocoinpay.io
 
