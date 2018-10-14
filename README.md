@@ -1,4 +1,4 @@
-# SC_Eurocoinpay
+# Smart Contract - Eurocoinpay - ECT
 Código Smart Contract ECT 
 
 Publicado y verificado en Etherscan
@@ -16,6 +16,9 @@ Optimization Enabled:	Yes
 
 Runs (Optimiser): 	200
 
+Escrito por: Facundo Martin Arguello 
+
+Contacto: facundo.martin@eurocoinpay.io
 
 
 Incluye librería SafeMath
