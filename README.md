@@ -9,7 +9,7 @@ Contract Name: EurocoinToken
 
 Compiler Text: v0.4.25+commit.59dbf8f1
 
-Optimization Enabled:	Yes
+Optimization Enabled:	No
 
 Runs (Optimiser): 200
 
