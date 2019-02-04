@@ -1,25 +1,18 @@
-# Smart Contract - Eurocoinpay - ECT
-Código Smart Contract ECT 
+# Smart Contract - Eurocoinpay - ECTE
+Smart Contract Code ECTE
 
-Publicado y verificado en Etherscan
+Published and verified in Etherscan
 
-https://etherscan.io/address/0x117c3385bb0f1ddb762d48cc24626f9529c42148
+https://etherscan.io/address/0xe9fa21e671bcfb04e6868784b89c19d5aa2424ea
 
-Contract Name:	EurocoinToken
+Contract Name: EurocoinToken
 
-
-Compiler Text:	v0.4.25+commit.59dbf8f1
-
+Compiler Text: v0.4.25+commit.59dbf8f1
 
 Optimization Enabled:	Yes
 
+Runs (Optimiser): 200
 
-Runs (Optimiser): 	200
+Contact: soporte@eurocoinpay.io
 
-
-
-Contacto: facundo.martin@eurocoinpay.io
-
-
-Incluye librería SafeMath
-
+Includes SafeMath library
